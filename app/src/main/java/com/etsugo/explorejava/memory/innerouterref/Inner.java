@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.memory.innerouterref;
+package com.etsugo.explorejava.memory.innerouterref;
 
 public abstract class Inner
 {

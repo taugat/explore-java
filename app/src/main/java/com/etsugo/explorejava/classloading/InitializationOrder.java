@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.classloading;
+package com.etsugo.explorejava.classloading;
 
 class Super2 {
     static { System.out.println("static Super2 "); }

@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.classloading;
+package com.etsugo.explorejava.classloading;
 
 import java.sql.DriverManager;
 import java.util.ArrayList;

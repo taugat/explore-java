@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.reflection;
+package com.etsugo.explorejava.reflection;
 
 @Deprecated
 public class AClass

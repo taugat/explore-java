@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.polymorphisme;
+package com.etsugo.explorejava.polymorphisme;
 
 public interface PolyInterface2
 {

@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.reflection;
+package com.etsugo.explorejava.reflection;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

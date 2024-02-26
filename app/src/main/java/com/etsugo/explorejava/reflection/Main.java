@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.reflection;
+package com.etsugo.explorejava.reflection;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

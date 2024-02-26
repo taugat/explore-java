@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.memory.stackimpl;
+package com.etsugo.explorejava.memory.stackimpl;
 
 import java.util.EmptyStackException;
 import java.util.stream.IntStream;

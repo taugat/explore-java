@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.annotation;
+package com.etsugo.explorejava.annotation;
 
 public class AClassToAnnotate
 {

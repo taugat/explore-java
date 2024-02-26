@@ -1,4 +1,4 @@
-package com.etsugo.cgtraining.annotation;
+package com.etsugo.explorejava.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Repeatable;
